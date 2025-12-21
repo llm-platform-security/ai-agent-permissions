@@ -1,0 +1,77 @@
+Generic Data Type,Raw Data Type,Frequency
+Personal Contact Information,"Email, Phone number, Email address",10
+Name,"User's name, Name, Full name",8
+Smart Home Data,"Garage access log, Garage video recording, Energy consumption logs, Front door video recording, Backyard video recording, Home presence, Motion detection logs",7
+Financial Documents,"Financial report file, Sales report, Invoices and receipts data, Revenue report, Receipt images, Bank or credit card statements, Detailed receipts",7
+Geo-location Data,"User location, Geolocation",6
+Address,Address,6
+Travel Dates,Trip dates,6
+Exercise Activity Details,"Exercise logs, Daily activity events, Exercise type, Exercise data, Calories burned",5
+Colleague Contact Information,"Colleague's email, HR email addresses, Manager's contact information, Attendees email addresses",5
+Income Details,"Income/budget considerations, Income details, Historical income",5
+Meeting Details,"Meeting date and time, Meeting agenda, Meeting title or description, Meeting details, Event details",5
+Payment Details,"Payment note, Recipient account information, Invoice and payment timelines, Financial commitments, Recurring payments, Payment details",5
+Travel Destination,Trip location,5
+Photos,"Photos, Photo details, Profile Pictures",5
+Payment Card Information,Credit card details,4
+Sleep Data,"Sleep duration/quality, Sleep duration, Sleep quality data, Bedtime",4
+Message Content,"Message content, Slack messages content",4
+Vital Signs,"Blood pressure, Heart rate data",4
+Tax Information,"W-2 details, Filling status, Other personal tax profile data, Previous tax filing details",4
+Account Credentials,"Account email, Account password",4
+Travel Preferences,"Car details, Seating preference, Car rental details, Car preferences",4
+Dietary Preferences,"Dietary preferences, Dietary details, Food preferences, Dietary preference",4
+Bank Account Details,"Account number, Account balance",4
+Transaction History,"Transaction logs, Payment history, Transaction history",4
+Child Information,"Child name, Child age, Child gender",3
+Family Contact Information,"Parents' phone numbers, Children's phone numbers, Siblings' phone numbers",3
+Investment Information,"Investment holdings, Stock purchase dates and values, Transaction histories related to investments",3
+Order Details,Order information,3
+Allergies,Allergies,3
+Body Weight,"Weight, Personal weight history",3
+Visa Documents,"Visa documents, Other travel permits, Visa scan",3
+Gender,Gender,3
+Test/Diagnostic Results,"Blood sugar data, Current cholesterol level, Previous screening/test results",3
+Task Data,"Scheduling details, Pending task information",3
+Passport Documents,"Passport scans, Passport",2
+Relationship Preferences,Relationship preferences,2
+Relationship Status,"Marital status, Relationship status",2
+Social Security Number (SSN),SSN,2
+Personal Identification Numbers,Passport number,2
+Accommodation Details,"Hotel location, Hotel preferences",2
+Expense Data,"Historial expense data, Dates of expenses",2
+Medications,"Current medications, Prescription medicine list",2
+Age,Age,2
+Medical History,"Medical history, Medical/pregnancy history",2
+Employment Details,"Employment information, Workplace",2
+Credit Information,"Credit history, Credit report data",2
+Email Content (subject and body),"Content of recent emails, Email content",2
+Movie Watching History,Movie watching history,2
+Nutritional Goals,Nutritional goals,1
+Social Media Data,Instagram post content,1
+Education Details,Education level,1
+Travel Activities,Trip activities,1
+Debt Information,Outstanding debts,1
+Date of Birth,Birthday,1
+Travel History,Travel history,1
+Travel Itinerary,Travel details,1
+Visa Application History,Past visa application details,1
+Driver License Number,Driving license,1
+Family Medical History,Family history,1
+Shopping List,Shopping list,1
+Shipping Address,Delivery address,1
+Sender Email Address,Sender's email addresses,1
+Files and documents,Email file attachments,1
+Fitness Goal,Fitness goal,1
+Physical Limitations or Injuries,Physical limitations or injuries,1
+Physical Health Conditions,Health conditions,1
+Flight Itinerary,Flight itinerary details,1
+Pet Ownership,Pet ownership status,1
+Hobbies and Interests,Interests/hobbies,1
+Legal/Contract Information,Contract details,1
+Personal Biography,User bio,1
+Payment Method Details,Payment method details,1
+Medical Provider Name,Doctor's Name,1
+Movie Preferences,Film genre,1
+Slack Workspace Name,Slack workspace name,1
+Music Listening History,Music playing history,1
