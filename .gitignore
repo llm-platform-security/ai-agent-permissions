@@ -23,8 +23,9 @@ test_env/
 .DS_Store
 Thumbs.db
 
-# Results and outputs
-results/
+# Results and outputs (but keep README.md)
+results/*
+!results/README.md
 outputs/
 logs/
 *.log
