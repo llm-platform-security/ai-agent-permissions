@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the data, source code, and materials for our research on automating data access permissions in AI agents. We take a multifaceted approach: (i) conducting a vignette-based user study to understand user permission preferences, and (ii) developing a permission prediction system that combines LLM in-context learning with collaborative filtering.
+This repository contains the data, source code, and materials for our research on automating data access permissions in AI agents. We (i) conduct a user study to understand user permission preferences, and (ii) develop a permission prediction system that combines LLM in-context learning with collaborative filtering.
 
 ### Key Contributions
 
